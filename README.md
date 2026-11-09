@@ -1,16 +1,28 @@
-## Hi there 👋
+# Daniel
 
-<!--
-**daneknehacker/daneknehacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## C/C++ Developer
+C/C++ Developer in security company. Working with Windows OS, Qt5 and network developing. 
 
-Here are some ideas to get you started:
+## 🔭 BS && MSc
+Study program:
+- Inforamation security. Financial University - 2025
+- Information systems and technology. NRNU MEPhI - 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Some pet-projects
+### - Wrapped Windows API functions
+Static library for using in projects, that uncluded Windows API. It helps to facilitate interaction with Windows based funcions and objects. More: [wwinapi](https://github.com/daneknehacker/wwinapi)
+
+## ⚡ Personal
+I like to increase developer skills and explore Computer Science. For now my favorite programming language is C++. It is to long to describe why.
+
+For me, it is interesting to work with all of common topics of Computer Science, but Network/System/Software developing are the most attractive.
+
+Also I have skills in: Python, Java, JS, Kotlin.
+I want to study Rust and Java more. I think these languages are also interesting. 
+
+To sum up, every "Why it doesn`t working?..." have not less than one "So, it works...". I called it "The DevSamurai way".
+
+Also like to play chess/minecraft/dota 2 :D
+
+## 📫 Contacts
+Email: tdr.msk.yand@yandex.ru
