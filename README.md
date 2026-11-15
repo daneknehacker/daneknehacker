@@ -17,12 +17,8 @@ I like to increase developer skills and explore Computer Science. For now my fav
 
 For me, it is interesting to work with all of common topics of Computer Science, but Network/System/Software developing are the most attractive.
 
-Also I have skills in: Python, Java, JS, Kotlin.
-I want to study Rust and Java more. I think these languages are also interesting. 
-
-To sum up, every "Why it doesn`t working?..." have not less than one "So, it works...". I called it "The DevSamurai way".
-
-Also like to play chess/minecraft/dota 2 :D
+Also I have skills in: C, Python, Java.
+I want to study Rust and Java more. These languages are giving more opportunities for developer in relevant selecions
 
 ## 📫 Contacts
 Email: tdr.msk.yand@yandex.ru
